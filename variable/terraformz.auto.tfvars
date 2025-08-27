@@ -1,0 +1,2 @@
+# rgname = "ashurgvar-onlyz"
+
